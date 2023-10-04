@@ -1,0 +1,6 @@
+name: git-ed
+channels:
+  - defaults
+dependencies:
+  - python
+  - notebook
