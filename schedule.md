@@ -10,15 +10,10 @@ introduction
 ### week 2
 basics
 - the working copy 
-- basic commands 
-- git pull
-- git push
-- git clone 
-- git add
-- git commit 
+- basic git commands 
 
 ### week 3
-git GUI
+git UI 
 - source tree
 
 ### week 4
@@ -26,6 +21,10 @@ git GUI
 ### week 5
 
 ### week 6
+git workflow
+- open source 
+- pull request 
+- code review 
 
 ### week 7
 
