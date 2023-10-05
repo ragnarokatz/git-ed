@@ -22,6 +22,11 @@ git basics
 git UI
 - source tree
 
+### week 4.1
+gitignore
+- what goes into a git repo
+- samples
+
 ### week 5
 git branches
 - what are branches
