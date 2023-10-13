@@ -7,3 +7,7 @@
 
 ### starting the notebook
 - `jupyter notebook`
+
+### converting notebook to slides
+- `jupyter nbconvert <name>.ipynb --to slides`
+- open generated `<name>.slides.html` in browser
